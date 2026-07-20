@@ -70,10 +70,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARAVANAN-3-11&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="50%" />
 </div>
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the markdown source with your actual GitHub username to render the stats properly!
-
----
-
+>
 ### 🤝 Connect with me
 
 <p align="center">
