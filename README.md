@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Advanced MLOps, LLM Fine-Tuning, and Distributed Systems.**
 - 👯 I’m looking to collaborate on **Open Source AI tools and Full Stack projects.**
 - 💬 Ask me about **React, Node.js, Python, PyTorch, and System Architecture.**
-- 📫 How to reach me: **[your-email@example.com](mailto:saravanansaro22333@gmail.com)**
+- 📫 How to reach me: **[saravanansaro22333@gmail.com](mailto:saravanansaro22333@gmail.com)**
 - ⚡ Fun fact: **I can debug a neural network while compiling a frontend build (just kidding, but I try!).**
 
 ---
